@@ -30,5 +30,5 @@ This tidy dataset will be written to a tab-delimited file called tidy.txt, which
 
 About the Code Book
 -------------------
-The CodeBook.md file explains the transformations performed and the resulting data and variables.
+The CodeBook.md file explains the transformations performed and the resulting data and variables
 
